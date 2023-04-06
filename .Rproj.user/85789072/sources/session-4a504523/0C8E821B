@@ -1,9 +1,9 @@
 {
     "id": "0C8E821B",
-    "path": null,
+    "path": "H:/My Documents/R Projects/test_git/first_script.R",
     "project_path": null,
     "type": "r_source",
-    "hash": "0",
+    "hash": "1197099459",
     "contents": "",
     "dirty": false,
     "created": 1680771524939.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled2",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "2,23",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 7594306332050809134,
-    "encoding": "",
+    "lastKnownWriteTime": 1680772490,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1680771524939,
+    "last_content_update": 1680772491928,
     "read_only": false,
     "read_only_alternatives": []
 }
